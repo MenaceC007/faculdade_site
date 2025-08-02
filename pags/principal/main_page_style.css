@@ -1,15 +1,56 @@
-.inicio {
-
+* {
+    background-color: black;
 }
 
-.indice {
-
+@font-face {
+    font-family: 'tox_tpw';
+    src: url(/fontes/tox_tpw.ttf);
 }
 
-.botoes_1 {
-    
+/*tentar resolver a posicão do "CHI"*/
+.header {
+    text-align: center;
+    font-family: 'tox_tpw';
+}
+.crystal h1 {
+    color: white;
+    font-size: 100px;
 }
 
-.botoes_2 {
-
+.chi h1 {
+    color: #e80ba9;
+    font-size: 70px;
 }
+
+.nav {
+    color: aliceblue;
+    text-align: center;
+    font-family: 'tox_tpw';
+    font-size: 50px;
+}
+
+.botoes li {
+    display: inline;
+}
+
+button {
+    width: 250px;
+    text-align: center;
+    font-family: 'tox_tpw';
+    font-size: 40px;
+    background-color: #e80ba9;
+    border-radius: 20px;
+}
+
+a {
+    color: black;
+    background-color: #e80ba9;
+    text-decoration: none;
+}
+
+a:visited{
+    color: black;
+}
+
+/*apenas para fazer com que os links fiquem
+no lugar desejado*/
