@@ -9,17 +9,46 @@
 
 /*tentar resolver a posicão do "CHI"*/
 .header {
-    text-align: center;
     font-family: 'tox_tpw';
 }
 .crystal h1 {
     color: white;
     font-size: 100px;
+    text-align: center;
+    top: auto;
+    left: 50px;
+    right: 50px;
 }
 
 .chi h1 {
-    color: #e80ba9;
-    font-size: 70px;
+    color: #ed63e3;
+    font-size: 75px;
+    text-align: center;
+    position: fixed;
+    top: 75px;
+    left: 50px;
+    right: 50px;
+    background: transparent;
+}
+
+.natalia h3{
+    color: #ba72a5;
+    text-align: center;
+    position: fixed;
+    top: 135px;
+    left: 30px;
+    right: 250px;
+    background: transparent;
+}
+
+.fernandes h3 {
+    color: #ba72a5;
+    text-align: center;
+    position: fixed;
+    top: 135px;
+    left: 300px;
+    right: 30px;
+    background: transparent;
 }
 
 .nav {
@@ -51,6 +80,3 @@ a {
 a:visited{
     color: black;
 }
-
-/*apenas para fazer com que os links fiquem
-no lugar desejado*/
