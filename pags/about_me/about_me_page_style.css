@@ -11,3 +11,26 @@
     src: url(/fontes/geizer.ttf);
 }
 
+/*estilo geral da página*/
+* {
+    background-color: black;
+}
+
+.inicio {
+    font-family: tox_tpw;
+}
+.sobre h1 {
+    color: white;
+}
+
+.mim h1 {
+    color: #ed63e3;
+}
+
+.about h3 {
+    color: #ba72a5;
+}
+
+.me h3 {
+    color: #ba72a5;
+}
