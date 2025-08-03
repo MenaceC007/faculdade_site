@@ -1,0 +1,13 @@
+/*Fontes novas para o design (aqui usamos coisas bonititnhas)*/
+/*Tox Typewriter - titulos*/
+@font-face {
+    font-family: 'tox_tpw';
+    src: url(/fontes/tox_tpw.ttf);
+}
+
+/*GEIZER - corpo de texto*/
+@font-face {
+    font-family: 'geizer';
+    src: url(/fontes/geizer.ttf);
+}
+
