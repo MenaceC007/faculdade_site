@@ -18,13 +18,23 @@
 
 .inicio {
     font-family: tox_tpw;
+    text-align: center;
+
 }
 .sobre h1 {
     color: white;
+    font-size: 100px;
 }
 
 .mim h1 {
     color: #ed63e3;
+    font-size: 75px;
+    position: fixed;
+    top: 75px;
+    left: 50px;
+    right: 50px;
+    background: transparent;
+    position-anchor: fixed;
 }
 
 .about h3 {
