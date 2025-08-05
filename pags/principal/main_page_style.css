@@ -24,7 +24,7 @@
     color: #ed63e3;
     font-size: 75px;
     text-align: center;
-    position: fixed;
+    position: absolute;
     top: 75px;
     left: 50px;
     right: 50px;
@@ -34,7 +34,7 @@
 .natalia h3{
     color: #ba72a5;
     text-align: center;
-    position: fixed;
+    position: absolute;
     top: 135px;
     left: 30px;
     right: 250px;
@@ -44,7 +44,7 @@
 .fernandes h3 {
     color: #ba72a5;
     text-align: center;
-    position: fixed;
+    position: absolute;
     top: 135px;
     left: 300px;
     right: 30px;
@@ -79,4 +79,15 @@ a {
 
 a:visited{
     color: black;
+}
+
+.logo_marca {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    top: 90px;
 }
