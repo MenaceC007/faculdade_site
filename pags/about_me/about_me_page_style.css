@@ -29,18 +29,63 @@
 .mim h1 {
     color: #ed63e3;
     font-size: 75px;
-    position: fixed;
+    position: absolute;
     top: 75px;
     left: 50px;
     right: 50px;
     background: transparent;
-    position-anchor: fixed;
 }
 
 .about h3 {
     color: #ba72a5;
+    position: absolute;
+    font-size: 25px;
+    top: 130px;
+    left: 55px;
+    right: 250px;
+    background: transparent;
 }
 
 .me h3 {
     color: #ba72a5;
+    position: absolute;
+    font-size: 25px;
+    top: 130px;
+    left: 200px;
+    right: 45px;
+    background: transparent;
+}
+
+.texto {
+    color: white;
+    font-family: geizer;
+    text-align: center;
+    font-size: 30px
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    top: 90px;
+}
+
+button {
+    font-family: tox_tpw;
+    font-size: 35px;
+    text-align: center;
+    background-color: #e80ba9;
+    color: black;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 45px;
+}
+
+a {
+    color: black;
+    background-color: #e80ba9;
+    text-decoration: none;
+}
+a:visited {
+    color: black;
 }
