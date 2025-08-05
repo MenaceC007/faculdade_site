@@ -1,0 +1,71 @@
+* {
+    background-color: black;
+}
+
+/*fonts*/
+@font-face {
+    font-family: 'tox_tpw';
+    src: url(/fontes/tox_tpw.ttf);
+}
+
+@font-face {
+    font-family: 'geizer';
+    src: url(/fontes/geizer.ttf);
+}
+
+.inicio h1 {
+    color: white;
+    text-align: center;
+    font-family: tox_tpw;
+    font-size: 100px;
+}
+
+.education h3 {
+    color: #ba72a5;
+    text-align: center;
+    font-family: tox_tpw;
+    position: absolute;
+    top: 135px;
+    left: 50px;
+    right: 50px;
+    background: transparent;
+}
+
+.texto {
+    color: white;
+    font-family: 'geizer';
+    font-size: 40px;
+}
+
+ul{
+    text-align: center;
+}
+
+ul li {
+    list-style-type: '->';
+    list-style-position: inside;
+}
+
+.header2 {
+    font-family: tox_tpw;
+    text-align: center;
+}
+.habilidades h1{
+    color: white;
+    font-size: 100px;
+}
+
+.skills h3 {
+    color: #ba72a5;
+    position: absolute;
+    bottom: 60px;
+    left: 50px;
+    right: 50px;
+    background: transparent;
+}
+
+.texto2 {
+    color: white;
+    font-family: 'geizer';
+    font-size: 40px;
+}
