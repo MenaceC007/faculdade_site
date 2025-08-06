@@ -69,3 +69,30 @@ ul li {
     font-family: 'geizer';
     font-size: 40px;
 }
+
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 50%;
+    position: absolute;
+    left: 50px;
+    right: 50px;
+    background: transparent;
+}
+
+button {
+    font-family: tox_tpw;
+    font-size: 35px;
+    text-align: center;
+    background-color: #e80ba9;
+    color: black;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 45px;
+}
+
+a {
+    color: black;
+    background: transparent;
+    text-decoration: none;
+}
