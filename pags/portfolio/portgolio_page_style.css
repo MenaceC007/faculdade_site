@@ -1,0 +1,38 @@
+.inicio {
+    background-color: black;
+}
+
+@font-face {
+    font-family: tox_tpw;
+    src: url(/fontes/tox_tpw.ttf);
+}
+
+header {
+    text-align: center;
+}
+
+.portfolio {
+    color: white;
+}
+
+.my {
+    color: #ba72a5;
+}
+
+.works{
+    color: #ba72a5;
+}
+
+.divisao_de_pagina {
+    background: transparent;
+}
+
+.divisao_de_pagina img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.conteudo {
+    background-color: #d3d3d3;
+}
